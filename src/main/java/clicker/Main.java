@@ -12,8 +12,10 @@ import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 
 public class Main extends Application {
+	
 	private String titleMessage;
 	private int counter;
+	
 	private int r;
 	private int g;
 	private int b;
